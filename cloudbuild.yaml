@@ -288,4 +288,4 @@ secrets:
 - kmsKeyName: projects/605401852458/secrets/key0
   secretEnv:
     # This is the encrypted version of the token
-    GITHUB_ACCESS_TOKEN: 'CiQAvY6emySnH0uiC+j45bH769zWF6mdGTvMXmm4lGTQdbzdtHASUQACTwBYZxvznQFpTzk0iCipCKbpFLUmmamZyDavj1DpSEg6fwjf9UyW6PykVS44PBbLbTSxvUevFRFfHml4q01W/mfRZk+144898pnXhq/7tQ=='
+    GITHUB_ACCESS_TOKEN: '5b8b4870caad2b3d2fa12bc2aebf7cda0c25eb4eC'
